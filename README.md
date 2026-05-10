@@ -51,24 +51,13 @@ I'm third-year Software Engineering student at FPT University and an indie full-
 
 <b>Top Repositories</b>
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Khacquan205/TEN_REPO_1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khacquan205&repo=TEN_REPO_1&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Khacquan205/TEN_REPO_2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khacquan205&repo=TEN_REPO_2&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Khacquan205/TEN_REPO_3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khacquan205&repo=TEN_REPO_3&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div width="100%" align="center">
+  <a href="https://github.com/Khacquan205/TEN_REPO_1" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Khacquan205&repo=TEN_REPO_1&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/Khacquan205/TEN_REPO_2" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Khacquan205&repo=TEN_REPO_2&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
 
 <br /><br /><br /><br /><br /><br /><br />
